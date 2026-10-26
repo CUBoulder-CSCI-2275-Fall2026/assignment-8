@@ -1,4 +1,4 @@
-# CSCI 2270 – Data Structures - Assignment 8: Graph
+# CSCI 2275 – Data Structures - Assignment 8: Graph
 
 ## Objectives
 
